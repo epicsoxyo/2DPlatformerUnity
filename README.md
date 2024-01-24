@@ -17,7 +17,7 @@ This was the first project I completed as part of my degree.
 
 ### Description
 
-I made these two levels during the first two weeks of my master's degree in computer games development at Manchester Metropolitan University. In total, this took me around 10 hours to make.
+I made these two levels during the first two weeks of my master's degree in computer games development at Manchester Metropolitan University. The aim is to collect as many coins as you can before making your way to the exit. In total, this took me around 10 hours to make.
 
 This was my first exposure to creating a game with the Unity Engine. We were tasked with creating a 2D platformer level using the assets we were given. During this time, I learned:
 - How to navigate and use some basic features of Unity2D
